@@ -1,2 +1,0 @@
-# datasciencecoursera
-## README FILE
